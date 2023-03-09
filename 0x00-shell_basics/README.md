@@ -1,1 +1,1 @@
-my first script
+Project folder for Shell basics
